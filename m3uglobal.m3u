@@ -1,5 +1,19 @@
 #EXTM3U
 
+#PLAYLISTV: pltv-logo="https://drive.google.com/file/d/0B0NP8DsvyDW3RkFWQzVJWlEzVlU/view?usp=sharing" 
+
+pltv-name="M 3 U G L O B A L *TV* " 
+
+pltv-description="Tv Aberta, Filmes, Notícias, e Muito Mais."
+
+pltv-cover="https://drive.google.com/file/d/0B0NP8DsvyDW3eG5xbHZ3ejQ2Q0k/view?usp=sharing" 
+
+pltv-author="Evandro Epifanio"
+
+pltv-site="AGUARDE"
+
+pltv-email="iptvcriativo@gmail.com"
+
 #EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/185b01a8085f178ce95f4cb27a3d97c9.jpg"  group-title="TV ABERTA",  Record
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
 
