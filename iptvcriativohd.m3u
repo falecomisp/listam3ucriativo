@@ -1,5 +1,19 @@
 #EXTM3U
 
+#PLAYLISTV: pltv-logo="https://drive.google.com/file/d/0B0NP8DsvyDW3RkFWQzVJWlEzVlU/view?usp=sharing" 
+
+pltv-name="M 3 U G L O B A L *TV* " 
+
+pltv-description="Tv Aberta, Filmes, Notícias, e Muito Mais."
+
+pltv-cover="https://drive.google.com/file/d/0B0NP8DsvyDW3eG5xbHZ3ejQ2Q0k/view?usp=sharing" 
+
+pltv-author="Evandro Epifanio"
+
+pltv-site="AGUARDE"
+
+pltv-email="iptvcriativo@gmail.com"
+
 #EXTINF:-1 tvg-logo=""http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="",Agro Brasil TV
 http://154.16.127.17:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?
 
